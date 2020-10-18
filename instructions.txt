@@ -1,0 +1,7 @@
+Each folder has its own README.md file which contains the instructions of the usage and testing.
+
+Working link - https://ffreak.herokuapp.com/
+Backend API docs - https://documenter.getpostman.com/view/12879233/TVRq2kXr
+Github frontend repository - https://github.com/khushal87/Hackccelerate
+Github backend repository - https://github.com/mayanktomar/Ffreak
+Github recommendation(ML) repository - https://github.com/paridhi2105/fFreak
